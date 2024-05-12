@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: azure;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.second-box {
+  background-color: #150b3e;
+  width: 800px;
+  height: 800px;
+  border-radius: 20px;
+}
+.profile-symbol {
+  background-color: white;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.profile-div {
+  display: flex;
+}
+.profile-heading {
+  color: white;
+  margin: 10px;
+}
+.balance-box {
+  display: flex;
+  font-size: 40px;
+  color: white;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.balance-para {
+  color: #d4d2db;
+}
+.withdraw-style {
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.repess-box {
+  margin: 10px;
+  display: flex;
+}
+underoreder-list{
+  display: flex;
+}
